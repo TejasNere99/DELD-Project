@@ -26,22 +26,6 @@ Together, these buses ensure **reliable**, **fast**, and **scalable** digital ci
 
 ---
 
-## 🖼️ Visual Representation
-
-<p align="center">
-  <img src="images/bus_diagram.png" width="500">
-  <br>
-  <em>Fig. 1 — Basic Bus Architecture</em>
-</p>
-
-<p align="center">
-  <img src="images/timing_diagram.png" width="500">
-  <br>
-  <em>Fig. 2 — Example Timing Diagram for Bus Communication</em>
-</p>
-
----
-
 ## ⚙️ Expected Input
 - Digital signals  
 - Address lines  
