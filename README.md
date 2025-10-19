@@ -44,7 +44,7 @@ Together, these buses ensure **reliable**, **fast**, and **scalable** digital ci
 <p align="center">
   <img src="group_photo.jpg" width="480">
   <br>
-  <em>Fig. 3 — Presentation</em>
+  <em>Presentation</em>
 </p>
 
 ---
