@@ -39,18 +39,12 @@ Together, these buses ensure **reliable**, **fast**, and **scalable** digital ci
 
 ---
 
-## 🧾 Proofs & Circuit Implementation
-
-📂 *All circuit proofs and design evidence are stored in the `proofs/` folder.*  
-Example images to include:
-- `proofs/bus_circuit_design.jpg`
-- `proofs/simulation_result.png`
-- `proofs/timing_analysis.png`
+## 🧾 Proofs
 
 <p align="center">
-  <img src="proofs/simulation_result.png" width="480">
+  <img src="group_photo.jpg" width="480">
   <br>
-  <em>Fig. 3 — Simulation Result Snapshot</em>
+  <em>Fig. 3 — Presentation</em>
 </p>
 
 ---
